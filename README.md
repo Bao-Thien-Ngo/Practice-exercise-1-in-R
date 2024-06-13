@@ -8,6 +8,7 @@
 <h2><strong>Dataset</strong></h2>
     By using this dataset, I conduct some descriptive analysis and answer the following questions:
 <br>
+<br>
 1. Generate summary statistics (including skewness and kurtosis) of the electric range for the whole dataset. Comment on the results.
 3. Calculate the frequency distribution of the electric range of vehicles (hint: first divide the variables into certain categories and then find out the distribution). Comment on the results. 
 4. Generate a cluster bar plot by placing the percentage of vehicles on the y-axis and electric vehicle types on the x-axis. Each electric vehicle type should be divided into two bars based on the variable “clean alternative fuel vehicle eligibility”. Comment on the results.
