@@ -7,7 +7,6 @@
 
 <h2><strong>Dataset</strong></h2>
     By using this dataset, I conduct some descriptive analysis and answer the following questions:
-<br>
 1. Generate summary statistics (including skewness and kurtosis) of the electric range for the whole dataset. Comment on the results.
 2. Calculate the frequency distribution of the electric range of vehicles (hint: first divide the variables into certain categories and then find out the distribution). Comment on the results. 
 3. Calculate the frequency distribution of the electric range of vehicles (hint: first divide the variables into certain categories and then find out the distribution). Comment on the results. 
