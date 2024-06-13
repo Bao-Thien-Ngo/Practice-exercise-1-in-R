@@ -8,14 +8,12 @@
 <h2><strong>Dataset</strong></h2>
     By using this dataset, I conduct some descriptive analysis and answer the following questions:
 
-<p align="left"> 
 1. Generate summary statistics (including skewness and kurtosis) of the electric range for the whole dataset. Comment on the results.
 2. Calculate the frequency distribution of the electric range of vehicles (hint: first divide the variables into certain categories and then find out the distribution). Comment on the results. 
 3. Generate a cluster bar plot by placing the percentage of vehicles on the y-axis and electric vehicle types on the x-axis. Each electric vehicle type should be divided into two bars based on the variable “clean alternative fuel vehicle eligibility”. Comment on the results.
 4. Generate box plots of the electric range of vehicles for Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). Compare the plots in terms of median, spread, skewness, and outliers (if any). 
 5. Find the average values of the electric range of the vehicles that meet the eligibility criteria of “clean alternative fuel vehicle” and that do not meet so, respectively. Generate a bar plot by placing average values of the electric range of vehicles on the y-axis and the two categories of clean alternative fuel vehicle eligibility on the x-axis. Comment on the plot. 
 6. Generate a histogram of the electric range for Battery Electric Vehicles (BEVs). Interpret the plot. Also, calculate the percentage of vehicles that fall under a 3-standard deviation of this distribution.
-</p>
   
 <h2><strong>Note</strong></h2>
 These questions are from my teacher's lecture in my class.
