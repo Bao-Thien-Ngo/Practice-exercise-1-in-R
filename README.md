@@ -13,4 +13,5 @@
 5. Find the average values of the electric range of the vehicles that meet the eligibility criteria of “clean alternative fuel vehicle” and that do not meet so, respectively. Generate a bar plot by placing average values of the electric range of vehicles on the y-axis and the two categories of clean alternative fuel vehicle eligibility on the x-axis. Comment on the plot. 
 6. Generate a histogram of the electric range for Battery Electric Vehicles (BEVs). Interpret the plot. Also, calculate the percentage of vehicles that fall under a 3-standard deviation of this distribution.
 ## <strong>Notes</strong>
+
 These questions are from my teacher's lecture in my class.
